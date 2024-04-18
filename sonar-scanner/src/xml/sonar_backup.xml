@@ -23,7 +23,7 @@
   </properties>
   <profiles>
     <profile>
-      <name><![CDATA[Sonar way]]></name>
+      <name><![CDATA[sonarqubedemo]]></name>
       <version><![CDATA[1]]></version>
       <default-profile><![CDATA[true]]></default-profile>
       <provided><![CDATA[true]]></provided>
